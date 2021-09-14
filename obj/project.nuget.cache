@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cykeVJq/nIn0S7Kt1YXWJNK4H3m9x4mpU6WZ7QXD4UJXVwov7Kw4gGr6otungfaqScIiVj47M5zJxC5MtXOkRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos\\source\\repos\\ArquivosPosicionados\\ArquivosPosicionados\\ArquivosPosicionados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos\\.nuget\\packages\\filehelpers\\3.5.0\\filehelpers.3.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

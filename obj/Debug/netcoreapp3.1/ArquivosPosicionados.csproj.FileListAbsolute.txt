@@ -1,0 +1,16 @@
+C:\Users\Carlos\source\repos\ArquivosPosicionados\ArquivosPosicionados\bin\Debug\netcoreapp3.1\ArquivosPosicionados.exe
+C:\Users\Carlos\source\repos\ArquivosPosicionados\ArquivosPosicionados\bin\Debug\netcoreapp3.1\ArquivosPosicionados.deps.json
+C:\Users\Carlos\source\repos\ArquivosPosicionados\ArquivosPosicionados\bin\Debug\netcoreapp3.1\ArquivosPosicionados.runtimeconfig.json
+C:\Users\Carlos\source\repos\ArquivosPosicionados\ArquivosPosicionados\bin\Debug\netcoreapp3.1\ArquivosPosicionados.runtimeconfig.dev.json
+C:\Users\Carlos\source\repos\ArquivosPosicionados\ArquivosPosicionados\bin\Debug\netcoreapp3.1\ArquivosPosicionados.dll
+C:\Users\Carlos\source\repos\ArquivosPosicionados\ArquivosPosicionados\bin\Debug\netcoreapp3.1\ArquivosPosicionados.pdb
+C:\Users\Carlos\source\repos\ArquivosPosicionados\ArquivosPosicionados\bin\Debug\netcoreapp3.1\FileHelpers.dll
+C:\Users\Carlos\source\repos\ArquivosPosicionados\ArquivosPosicionados\obj\Debug\netcoreapp3.1\ArquivosPosicionados.csproj.AssemblyReference.cache
+C:\Users\Carlos\source\repos\ArquivosPosicionados\ArquivosPosicionados\obj\Debug\netcoreapp3.1\ArquivosPosicionados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\source\repos\ArquivosPosicionados\ArquivosPosicionados\obj\Debug\netcoreapp3.1\ArquivosPosicionados.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\ArquivosPosicionados\ArquivosPosicionados\obj\Debug\netcoreapp3.1\ArquivosPosicionados.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\ArquivosPosicionados\ArquivosPosicionados\obj\Debug\netcoreapp3.1\ArquivosPosicionados.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\ArquivosPosicionados\ArquivosPosicionados\obj\Debug\netcoreapp3.1\ArquivosPosicionados.csproj.CopyComplete
+C:\Users\Carlos\source\repos\ArquivosPosicionados\ArquivosPosicionados\obj\Debug\netcoreapp3.1\ArquivosPosicionados.dll
+C:\Users\Carlos\source\repos\ArquivosPosicionados\ArquivosPosicionados\obj\Debug\netcoreapp3.1\ArquivosPosicionados.pdb
+C:\Users\Carlos\source\repos\ArquivosPosicionados\ArquivosPosicionados\obj\Debug\netcoreapp3.1\ArquivosPosicionados.genruntimeconfig.cache
